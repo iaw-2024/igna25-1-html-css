@@ -44,10 +44,6 @@ table {
 
 }
 
-tr:nth-child(even) {
-    background-color: #c1d2ec;
-}
-
 th,
 td {
     text-align: left;
